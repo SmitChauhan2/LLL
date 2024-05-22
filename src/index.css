@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
